@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello! My name is Kimeunsoo%)
+![header](https://capsule-render.vercel.app/api?text=Hello!%20My%20name%20is%20Kimeunsoo%)
 
 <!--
 **eunsoo8606/eunsoo8606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
