@@ -27,7 +27,7 @@
 ### Library 
  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 
- - 궁금하신 점은 [여기](https://github.com/eunsoo8606/eunsoo8606/issues) 에 무엇이든 물어보세요.  
+ - 🔥 궁금하신 점은 [여기](https://github.com/eunsoo8606/eunsoo8606/issues) 에 무엇이든 물어보세요.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
