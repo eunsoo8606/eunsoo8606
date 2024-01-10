@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Hello%20My%20Repositiry!)
+![reversal](https://capsule-render.vercel.app/api?type=wave&color=216aff&height=200&text=Hello%20My%20Repositiry!)
 
 <!--
 **eunsoo8606/eunsoo8606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
