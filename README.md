@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624F?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white"/>  
 
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞  
-<img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/nodejs-6DB33F?style=for-the-badge&logo=nodejs&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  
+<img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/nodejs-6DB33F?style=for-the-badge&logo=nodejs&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  
 
 ### 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤  
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">   
