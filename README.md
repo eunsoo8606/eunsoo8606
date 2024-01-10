@@ -1,5 +1,8 @@
 ![reversal](https://capsule-render.vercel.app/api?type=wave&color=auto&fontColor=216aff&height=200&text=Hello%20My%20Repositiry!)
 
+** About me **
+🔭 현재 대한체육회 운영 및 개발을 진행하고 있는 4년차 백엔드 엔지니어입니다.
+
 <!--
 **eunsoo8606/eunsoo8606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
