@@ -8,8 +8,8 @@
     최근에는 탁구 ,족구 API 구축 및 개발했고 사내 Gitlab, Redmine을 구축하고 있습니다.
 
    
- - 궁금하신 점은 [여기](https://github.com/eunsoo8606/eunsoo8606/issues) 에 무엇이든 물어보세요.
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ - 궁금하신 점은 [여기](https://github.com/eunsoo8606/eunsoo8606/issues) 에 무엇이든 물어보세요.  
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
