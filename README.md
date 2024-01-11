@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&fontColor=000000&height=200&text=Welcome)  
+![reversal](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&fontColor=000000&height=100&text=Welcome)  
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞  
  - 🔭 현재 대한체육회 운영 및 개발을 진행하고 있는 4년차 백엔드 엔지니어입니다.  
@@ -24,6 +24,9 @@
 ### 𝐂𝐈/𝐂𝐃
 **Jenkins** **Git PipeLine**
 
+### Database
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
+  
 ### 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 
  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 
