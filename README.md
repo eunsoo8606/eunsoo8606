@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&color=#800080&fontColor=#FFFFFF&height=100&text=Welcome)  
+![reversal](https://capsule-render.vercel.app/api?type=wave&color=#800080&fontColor=FFFFFF&height=100&text=Welcome)  
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞  
  - 🔭 현재 대한체육회 운영 및 개발을 진행하고 있는 4년차 백엔드 엔지니어입니다.  
