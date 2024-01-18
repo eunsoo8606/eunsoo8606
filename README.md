@@ -31,9 +31,8 @@
 ### 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 
  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 
- - 🔥 궁금하신 점은 [여기](https://github.com/eunsoo8606/eunsoo8606/issues) 에 무엇이든 물어보세요.  
-
-[<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">](https://blog.naver.com/eunsoo8606)
+ - 🔥 궁금하신 점은 [여기](https://github.com/eunsoo8606/eunsoo8606/issues) 에 무엇이든 물어보세요.
+ - Blog : [<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">](https://blog.naver.com/eunsoo8606)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimeunsoo&show_icons=true&theme=transparent)
 
