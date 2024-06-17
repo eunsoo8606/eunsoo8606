@@ -31,6 +31,10 @@
 ### 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 
  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 
+
+### Certificate
+ - sqld 개발자
+
  ### 𝐁𝐥𝐨𝐠
  [<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">](https://blog.naver.com/eunsoo8606)
 
