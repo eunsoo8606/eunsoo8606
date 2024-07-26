@@ -34,6 +34,7 @@
 
 ### Certificate
  - sqld 개발자
+ - 리눅스마스터 1급
 
  ### 𝐁𝐥𝐨𝐠
  [<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">](https://blog.naver.com/eunsoo8606)
