@@ -22,7 +22,7 @@
 ### 𝐕𝐂𝐒  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white">  
 
-### 𝐂𝐈/𝐂𝐃
+### DevOps
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> **Git PipeLine**
 
 ### Database
