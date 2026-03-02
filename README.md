@@ -2,11 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunsoo8606%2Fhit-counter&count_bg=%23FFFFFF&title_bg=%23DB1EE3&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞  
- - 🔭 현재 대한체육회 운영 및 개발을 진행하고 있는 4년차 백엔드 엔지니어입니다.  
+ - 🔭 현재 대한체육회 운영 및 개발을 진행하고 있는 6년차 백엔드 엔지니어입니다.  
 
 
     저는 🏓탁구 디비전, 🏐족구 디비전, 🎾테니스 디비전 등등 개발 및 운영하고 있으며
-    최근에는 탁구 ,족구 API 구축 및 개발 하면서 사내 Gitlab, Redmine을 구축하고 있습니다.
+    최근에는 탁구 ,족구 API 구축 및 개발 하면서 사내 Gitlab, Redmine을 구축하였고
+    현재는 랜딩랩 회사를 개업하여 랜딩페이지 및 홈페이지 서비스를 판매/제공 하고 있습니다.
 
 ## 🧑‍💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
 
